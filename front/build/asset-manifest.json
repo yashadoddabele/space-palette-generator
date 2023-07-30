@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66f1c32c.css",
+    "main.js": "/static/js/main.5d2169be.js",
+    "static/media/Orbitron-VariableFont_wght.ttf": "/static/media/Orbitron-VariableFont_wght.453377cb91a4554c36ce.ttf",
+    "index.html": "/index.html",
+    "main.66f1c32c.css.map": "/static/css/main.66f1c32c.css.map",
+    "main.5d2169be.js.map": "/static/js/main.5d2169be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66f1c32c.css",
+    "static/js/main.5d2169be.js"
+  ]
+}
